@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311092066483",
+    "project_id": "the-awakened-way",
+    "storage_bucket": "the-awakened-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311092066483:android:41109718f3d3e2ded218c6",
+        "android_client_info": {
+          "package_name": "com.awakenedway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311092066483-qarupgsvvl207l323evoc2uoc688ijgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZHmifonIMRcF2IXP1KqHFJ2nYn3QpHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311092066483-qarupgsvvl207l323evoc2uoc688ijgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
